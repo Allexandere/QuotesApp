@@ -11,9 +11,9 @@
  
   `http://localhost:8080/`
   
-  ![alt text](https://github.com/Allexandere/QuotesApp/blob/main/picture1.jpg?raw=true)
-  ![alt text](https://github.com/Allexandere/QuotesApp/blob/main/picture2.jpg?raw=true)
-  ![alt text](https://github.com/Allexandere/QuotesApp/blob/main/picture3.jpg?raw=true)
+  ![alt text](https://github.com/Allexandere/QuotesApp/blob/master/picture1.jpg?raw=true)
+  ![alt text](https://github.com/Allexandere/QuotesApp/blob/master/picture2.jpg?raw=true)
+  ![alt text](https://github.com/Allexandere/QuotesApp/blob/master/picture3.jpg?raw=true)
 
   
   
