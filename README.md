@@ -4,7 +4,6 @@
   ```
   git clone https://github.com/Allexandere/QuotesApp.git
   cd QuotesApp/
-  mvn clean package -DskipTests
   docker-compose up
   ```
   **Endpoints:**<br />
