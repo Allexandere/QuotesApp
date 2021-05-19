@@ -1,0 +1,6 @@
+io\kameloon\demo\controller\MainController.class
+io\kameloon\demo\dto\QuoteCreateRequest.class
+io\kameloon\demo\service\QuoteService.class
+io\kameloon\demo\entity\Quote.class
+io\kameloon\demo\QuotesAppApplication.class
+io\kameloon\demo\repo\QuoteRepository.class
